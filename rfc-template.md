@@ -1,4 +1,4 @@
-# Title <!-- What do you want to call your `awesome_feature`? -->
+# Title <!-- What do you want to call your `awesome_project`? -->
 
 - Implementation Owner: (your github @username)
 - Start Date: (today's date, dd-mm-yyyy)
